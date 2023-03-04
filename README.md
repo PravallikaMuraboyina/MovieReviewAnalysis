@@ -24,6 +24,6 @@ Download and store all the code files in the same folder.
  - copy paste the web url in browser
  - paste the context that need to be analyzed in the given text box and click on "Predict"
  - Sentiment type is generated
- - 
+ 
 
 
