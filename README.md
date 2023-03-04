@@ -16,3 +16,14 @@ As a part of our project, we implemented three different classification models t
 **MODEL DEPLOYMENT**
 
 As a part of our project, we deployed a sentiment analysis model in Flask, a popular web framework for Python. To save our trained model, we used a pickle file, which allowed us to easily load and reuse the model for future predictions. In the Flask app, we loaded the trained model from the pickle file and integrated it with a user-friendly web interface. This allowed users to input text data and receive real-time sentiment analysis results based on the model's predictions. By deploying our model in Flask using a pickle file, we were able to create an efficient, scalable solution for sentiment analysis that could be easily adapted for real-world applications.
+
+**PROJECT IMPLEMENTATION**
+
+Download and store all the code files in the same folder.
+ - execute app.py in the cmd (>python app.py)
+ - copy paste the web url in browser
+ - paste the context that need to be analyzed in the given text box and click on "Predict"
+ - Sentiment type is generated
+ - 
+
+
